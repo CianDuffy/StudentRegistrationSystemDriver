@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.CianDuffy:StudentRegistrationSystem:05706a162a">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/CianDuffy/StudentRegistrationSystem/05706a162a/StudentRegistrationSystem-05706a162a.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/CianDuffy/StudentRegistrationSystem/05706a162a/StudentRegistrationSystem-05706a162a-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/CianDuffy/StudentRegistrationSystem/05706a162a/StudentRegistrationSystem-05706a162a-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
